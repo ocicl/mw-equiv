@@ -1,0 +1,10 @@
+* mw-equiv
+
+Temporary home of Michael Weber's mw-equiv
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/mw-equiv.git   |
+| commit  | {"messa  |
+| systems | mw-equiv |
+|---------+-------------------------------------------|
+
