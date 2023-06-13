@@ -4,7 +4,7 @@ Temporary home of Michael Weber's mw-equiv
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/sharplispers/mw-equiv.git   |
-| commit  | {"messa  |
+| commit  | 3ae8714  |
 | systems | mw-equiv |
 |---------+-------------------------------------------|
 
